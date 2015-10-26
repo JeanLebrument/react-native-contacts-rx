@@ -1,6 +1,6 @@
 {
   "name": "react-native-contacts-rx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native-contacts counterpart that include the support of RxJS.",
   "main": "index.js",
   "scripts": {
