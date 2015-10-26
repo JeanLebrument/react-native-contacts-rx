@@ -1,0 +1,25 @@
+{
+  "name": "react-native-contacts-rx",
+  "version": "1.0.0",
+  "description": "react-native-contacts counterpart that include the support of RxJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanLebrument/react-native-contacts-rx.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-contacts",
+    "rx",
+    "rxjs"
+  ],
+  "author": "Jean Lebrument",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanLebrument/react-native-contacts-rx/issues"
+  },
+  "homepage": "https://github.com/JeanLebrument/react-native-contacts-rx#readme"
+}
