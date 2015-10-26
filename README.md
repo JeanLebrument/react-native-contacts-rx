@@ -1,5 +1,5 @@
 # react-native-contacts-rx
-react-native-contacts counterpart that include the support of RxJS.
+[react-native-contacts](https://github.com/rt2zz/react-native-contacts) counterpart that include the support of RxJS.
 
 ## How install this package?
 
